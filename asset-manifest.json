@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.944380bb.css",
+    "main.js": "/my-app/static/js/main.4ee76d0f.js",
+    "static/media/illustration.svg": "/my-app/static/media/illustration.ae7276f02d68828a7fd05900182dccd4.svg",
+    "static/media/logo.svg": "/my-app/static/media/logo.a88331cb56de8218e26a25fd0e49f1ac.svg",
+    "static/media/google-icon.svg": "/my-app/static/media/google-icon.df15d8e5458213ab411f1d2e97ab8c67.svg",
+    "static/media/copy.svg": "/my-app/static/media/copy.2f36f99ee64302c6bc2bda6d2300b4fc.svg",
+    "static/media/delete.svg": "/my-app/static/media/delete.22ba6e00f8519d12c33bf6e56c243640.svg",
+    "index.html": "/my-app/index.html",
+    "static/media/answer.svg": "/my-app/static/media/answer.4502a8d5a18c09b88dbbc129df3c97a6.svg",
+    "static/media/check.svg": "/my-app/static/media/check.5dfa6ed6686122c45d79fefd527e506f.svg",
+    "main.944380bb.css.map": "/my-app/static/css/main.944380bb.css.map",
+    "main.4ee76d0f.js.map": "/my-app/static/js/main.4ee76d0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.944380bb.css",
+    "static/js/main.4ee76d0f.js"
+  ]
+}
